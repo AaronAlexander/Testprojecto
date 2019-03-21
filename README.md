@@ -8,4 +8,4 @@ test
 
 ### H3 Example
 
-- [take me to google](google.com)
+- [take me to google](https://google.com)
